@@ -51,6 +51,13 @@ sudo systemctl start jenkins
 
 ---
 
+## Additional Config
+```bash
+sudo usermod -aG docker jenkins
+sudo systemctl restart docker jenkins
+```
+---
+
 ## 🌐 Jenkins Setup & Pipeline
 
 1. Open Jenkins: `http://<EC2-IP>:8080`
