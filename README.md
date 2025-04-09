@@ -125,5 +125,5 @@ The Jenkins pipeline performs:
 
 ## 📸 Screenshots
 
-*Coming soon…*
+![Image](https://github.com/user-attachments/assets/22be7cb7-df9c-460c-8e25-af048218e6d7)
 
